@@ -1,0 +1,9 @@
+{
+  "name": "my-dear-ones",
+  "version": "0.0.1",
+  "description": "The app to recall your beloved fellow creatures",
+  "repository": "git@github.com:PierreClaisseMC/my-dear-ones.git",
+  "author": "Pierre Michel Castet Claisse <pierreclaisse@protonmail.ch>",
+  "license": "GPL-3.0",
+  "private": false
+}

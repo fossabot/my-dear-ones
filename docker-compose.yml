@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  db:
+    image: mariadb:10.2
+    volumes:
+      - ./data/var:/var/lib/mysql
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: 111111
+      MYSQL_DATABASE: my_dear_ones
